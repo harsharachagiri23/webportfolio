@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/99.c2a13326.chunk.css","mappings":"AAAA,QAEI,wBAAyB,CADzB,YAEJ,CACA,cAEI,wBAAyB,CADzB,aAEJ","sources":["components/socialmedia/this.css"],"sourcesContent":[".gitbun{\n    color: c5d3e1;\n    background-color: #001c55;\n}\n.gitbun:hover{\n    color: #001c55;\n    background-color: #edf9fe;\n}"],"names":[],"sourceRoot":""}
